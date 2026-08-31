@@ -23,6 +23,10 @@ var namespaces_dup =
     [ "anonymous_namespace{preferencespatternpage.cpp}", "d1/dbe/namespaceanonymous__namespace_02preferencespatternpage_8cpp_03.html", [
       [ "initAllStringsComboBox", "d1/dbe/namespaceanonymous__namespace_02preferencespatternpage_8cpp_03.html#a97383a8b46e2afedbc957a5c56b7522f", null ]
     ] ],
+    [ "anonymous_namespace{savetooloptions.cpp}", "dd/da8/namespaceanonymous__namespace_02savetooloptions_8cpp_03.html", [
+      [ "childElements", "dd/da8/namespaceanonymous__namespace_02savetooloptions_8cpp_03.html#a90bc00f8429f2767711cee83fd7c5b09", null ],
+      [ "referencesChanged", "dd/da8/namespaceanonymous__namespace_02savetooloptions_8cpp_03.html#a37fef8eec386cdf9b1548406ee1b6175", null ]
+    ] ],
     [ "anonymous_namespace{vabstractpattern.cpp}", "d0/d42/namespaceanonymous__namespace_02vabstractpattern_8cpp_03.html", [
       [ "ReadExpressionAttribute", "d0/d42/namespaceanonymous__namespace_02vabstractpattern_8cpp_03.html#a03b1fb578fba1ecb51300ab233820199", null ]
     ] ],
@@ -104,6 +108,7 @@ var namespaces_dup =
       [ "settingGeneralToolbarsState", "d5/dc3/namespaceanonymous__namespace_02vcommonsettings_8cpp_03.html#af3454acdd594dd98d4348de6cc8643a7", null ],
       [ "settingGeneralWindowState", "d5/dc3/namespaceanonymous__namespace_02vcommonsettings_8cpp_03.html#a0696d67afde5d1eb5346a7a90c11beae", null ],
       [ "settingGraphicsAutoClearFx", "d5/dc3/namespaceanonymous__namespace_02vcommonsettings_8cpp_03.html#ab6d7c0132ed611b7a2c649e0e7d65771", null ],
+      [ "settingGraphicsUseNativeDialogs", "d5/dc3/namespaceanonymous__namespace_02vcommonsettings_8cpp_03.html#ae909559fcf29f9941cfe10bffcec8932", null ],
       [ "settingGraphicsUseSecondMonitor", "d5/dc3/namespaceanonymous__namespace_02vcommonsettings_8cpp_03.html#a2474fcf7a475730787f7dcc8c7789a6f", null ],
       [ "settingGraphicsUseToolColor", "d5/dc3/namespaceanonymous__namespace_02vcommonsettings_8cpp_03.html#a634ebb3df267982daf0e69606dbcda37", null ],
       [ "settingGraphicsViewAngleDelta", "d5/dc3/namespaceanonymous__namespace_02vcommonsettings_8cpp_03.html#a4737f155235118b924d74d65812b04b6", null ],
